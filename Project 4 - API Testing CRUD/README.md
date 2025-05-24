@@ -1,6 +1,5 @@
 # Restful Booker Testcase (excel) + Postman Testcases
 
-Link to Download Files - https://sdet.live/project1
 
 - Postman Testcases(in JS)
 
